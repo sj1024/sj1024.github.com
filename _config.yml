@@ -10,9 +10,9 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : SJ1024
-tagline: Site Tagline
+tagline: 사이트 태그라인
 author :
-  name :ㅇㅅㅈ 
+  name : 윤성준
   email : joooon@gmail.com  
   github : sj1024
   twitter : sjyn
@@ -79,7 +79,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :

@@ -1,5 +1,9 @@
+@font-face { font-family:'NanumGothic'; font-style:normal; font-weight:400; src: url('http://api.mobilis.co.kr/webfonts/Nanum/NanumGothicCompact.woff') format('woff');}
+@font-face { font-family:'NanumMyeongjo'; font-style:normal; font-weight:400; src: url('http://api.mobilis.co.kr/webfonts/Nanum/NanumMyeongjoCompact.woff') format('woff');}
+
 /* Override some defaults */
 html, body {
+  font-family: NanumGothic; font-size:12px;
   background-color: #eee;
 }
 .navbar {
