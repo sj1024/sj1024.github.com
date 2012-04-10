@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ㅇㅅㅈ 블로그
+title: ㅇㅅㅈ
 ---
 {% include JB/setup %}
 
