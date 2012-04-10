@@ -4,7 +4,7 @@ title: "나시고랭"
 description: "나시고랭과 스페인 와인"
 category: "note"
 tagline: "그리고 스페인 와인"
-tags: [나시고랭, 와인, 롯데백화점,스페인,페렐라다 파비올라,상품권]
+tags: [나시고랭, 와인, 롯데백화점, 스페인, 페렐라다 파비올라, 상품권]
 ---
 {% include JB/setup %}
 [1]: /images/IMG_2287.JPG "오천원 상품권"
